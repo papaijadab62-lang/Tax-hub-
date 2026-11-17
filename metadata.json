@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix ARYA TAX PATHSHALA",
+  "description": "Professional Tax gst Accounting PF ESI \u0026 Financial Learning Management Portal with course authoring, student enrollment, GST checkout, progress tracking, and printable certificates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
